@@ -1,3 +1,3 @@
 arr = ['Ade', 'Ola', 'Ade']
 myArr = sorted(arr)
-for i in range(len(myArr)):im
+for i in range(len(myAr:im
